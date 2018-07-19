@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293206949666",
+    "project_id": "firebase-circles"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293206949666:android:0956ae4929e3174c",
+        "android_client_info": {
+          "package_name": "circle.com.circle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293206949666-k27klpokpika5gi4r5vk7mkmbfeso2pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "circle.com.circle",
+            "certificate_hash": "71BF84A0B6456F1A1C4B7C34C89473B718643A98"
+          }
+        },
+        {
+          "client_id": "293206949666-0mv3jhdmkk664s227t9b63d0t7lbee6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbBHjvh7EIUIzKC30araRhtOBpE5g4C0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
